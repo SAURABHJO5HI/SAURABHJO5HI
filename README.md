@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAURABHJO5HI
 - 🌱 I’m currently learning Java and Spring
-- 📫 How to reach me i.saurabhjoshi@hotmail.com
+- 📫 Reach me at i.saurabhjoshi@hotmail.com
 
 <!---
 SAURABHJO5HI/SAURABHJO5HI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
